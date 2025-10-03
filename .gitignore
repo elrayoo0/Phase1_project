@@ -1,0 +1,52 @@
+# --- Python cache and compiled files ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.egg
+*.egg-info/
+dist/
+build/
+
+# --- Jupyter Notebook checkpoints ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# --- Virtual environments ---
+venv/
+.env/
+.venv/
+env/
+ENV/
+*.env
+
+# --- Data files ---
+# Ignore all raw data files (too large for GitHub)
+data/raw/*
+# But keep cleaned dataset
+!data/cleaned_airline_accidents.csv
+
+# --- Logs ---
+*.log
+logs/
+
+# --- OS / system files ---
+.DS_Store
+Thumbs.db
+
+# --- VS Code / IDE files ---
+.vscode/
+*.code-workspace
+
+# --- Tableau files ---
+*.twb~
+*.twbx
+*.tds
+*.tdsx
+*.hyper
+
+# --- Backup / Temp files ---
+*.bak
+*.tmp
+*.swp
