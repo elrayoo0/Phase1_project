@@ -88,3 +88,7 @@ Prioritize modern commercial jets instead of older piston aircraft.
 Invest in multi-engine aircraft for redundancy and safety.
 
 Adopt newer-generation fleets that benefit from recent safety advancements.
+
+**Interactive Dashboard**
+Below is my link to my tableau dashboard
+https://public.tableau.com/authoring/Phase1_project_17594772285770/Dashboard1#2
