@@ -26,7 +26,6 @@ Analyze accidents by aircraft category, make, and model.
 
 Assess accident severity by engine type.
 
-Explore risks by flight phase and weather conditions.
 
 Provide data-driven recommendations for safer aircraft investment.
 
@@ -60,13 +59,13 @@ Exported cleaned dataset for analysis.
 The analysis includes:
 
 Injuries over time (line chart)
-(<Injuries_over_the_years.png>)
+![Injuries Over Time](Injuries_over_the_years.png)
 
 Injuries by aircraft make (bar chart)
-(<Injuries_by_make.png>)
+![Aircraft Make](Injuries_by_make.png)
 
 Injuries by engine type (bar chart)
-(<Injuries_by_engine_type.png>)
+![Engine Type](Injuries_by_engine_type.png)
 
 
 
